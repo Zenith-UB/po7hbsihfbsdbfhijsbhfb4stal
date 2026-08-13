@@ -67,9 +67,10 @@
       }
 
       const lines = [
-        '<div style="font-size: 18px; margin-bottom: 15px;">loading...</div>',
-        '<a href="https://zenith.zenithjdozucwuxgwn.workers.dev/math" style="font-size: 15px; color: #d42222; text-decoration: underline; margin-bottom: 10px; display: block;">zenith</a>',
-        '<a href="https://dsc.gg/freeublinks" style="font-size: 15px; color: #14b4f3; text-decoration: underline; margin-bottom: 10px; display: block;">d15c0rd</a>',
+        '<div style="font-size: 18px; margin-bottom: 5px;">LOADING...</div>',
+        '<div style="font-size: 15px; margin-bottom: 5px;">(Port by CORVU$ (Lazarshader69) <b>NOT</b> by me</div>',
+        '<a href="https://zenith.zenithjdozucwuxgwn.workers.dev/math" style="font-size: 15px; color: #1651db; text-decoration: underline; margin-bottom: 10px; display: block;">Zenith</a>',
+        '<a href="https://dsc.gg/freeublinks" style="font-size: 15px; color: #1651db; text-decoration: underline; margin-bottom: 10px; display: block;">D15c0rd</a>',
       ];
 
       config.files.forEach((file) => {
