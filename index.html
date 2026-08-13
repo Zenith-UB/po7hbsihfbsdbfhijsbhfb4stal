@@ -101,6 +101,16 @@
         };
       };
     </script>
+         <script>
+        window.fileMergerConfig = {
+            files: [
+                { name: 'index.data', parts: 20 },
+            ],
+            basePath: './',
+            debug: true
+        };
+    </script>
+    <script src="merge.js"></script>
     <script async type="text/javascript" src="index.js"></script>
   </body>
 </html>
